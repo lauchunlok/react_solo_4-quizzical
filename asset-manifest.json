@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react_solo_4-quizzical/static/css/main.dc936747.css",
+    "main.js": "/react_solo_4-quizzical/static/js/main.2e67dcc7.js",
+    "static/js/787.98f7ce64.chunk.js": "/react_solo_4-quizzical/static/js/787.98f7ce64.chunk.js",
+    "index.html": "/react_solo_4-quizzical/index.html",
+    "main.dc936747.css.map": "/react_solo_4-quizzical/static/css/main.dc936747.css.map",
+    "main.2e67dcc7.js.map": "/react_solo_4-quizzical/static/js/main.2e67dcc7.js.map",
+    "787.98f7ce64.chunk.js.map": "/react_solo_4-quizzical/static/js/787.98f7ce64.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc936747.css",
+    "static/js/main.2e67dcc7.js"
+  ]
+}
